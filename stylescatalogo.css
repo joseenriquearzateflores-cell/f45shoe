@@ -1,0 +1,97 @@
+{
+  margin:2;
+  padding:1.5;
+  box-sizing: border-box;
+}
+
+h1{
+    color:white;
+    font-family: "Homer Simpson UI";
+    font-size:3.5rem;
+}
+
+
+body{
+
+	font:Timnes New Roman 100%;serif;
+    background-color:#6A0DAD;
+    color:black;
+    font-size:2rem;
+    line-height: 1.6;
+    padding: 5px
+
+}
+h1 {
+    font-size: 2.5rem;
+    color: #black;
+    text-align: center;
+    margin-bottom: 10px; 
+
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #white;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #black;
+
+}
+
+p { 
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    font: oblique bold 120% cursive;
+    color:white;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background: yellowgreen;
+    margin: 20px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: yellowgreen;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid ;
+    padding: 12px;
+    text-align: center;
+    vertical-align: middle;
+    font-size:1.5rem;
+}
+
+th {
+    background-color: #047004;
+    color: white;
+    font-size:2.0rem;
+}
+
+tr:nth-child(even) {
+    background-color: #E6F7D5;
+}
+
+img {
+    border-radius: 4px;
+}
+
+footer,p:last-of-type {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 40px;
+}
+ 
